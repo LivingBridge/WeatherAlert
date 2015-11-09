@@ -1,0 +1,1 @@
+youremailaddress,yourphonenumber@vtext.com,youremailpassword

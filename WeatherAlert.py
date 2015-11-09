@@ -12,6 +12,8 @@ import pywapi
 import string
 import smtplib
 
+#You must change PrivateData.txt to a txt file containing your private data.
+#An example PrivateData.txt file is given in the repository and titled "PrivateDataEx.txt"
 fromaddr,toaddr,pswd = np.genfromtxt('PrivateData.txt',
                                   dtype= 'str',
                                   delimiter = ',')
